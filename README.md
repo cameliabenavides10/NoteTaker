@@ -34,3 +34,7 @@ In order to use this applicaton you need to have a browser on a working computer
  
  ## Username 
  github username: cameliabenavides10
+ 
+ 
+ ![Screenshot (15)](https://user-images.githubusercontent.com/118211489/217367044-2c503e04-b532-4cd2-8351-23a10dbae953.png)
+
